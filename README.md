@@ -1,4 +1,8 @@
 codes-in-the-dark
 =================
 
-Mini projects for training based on the 'code-in-the-dark' methodology: 25 min to complete without checking the result in the browser until the time is over.
+Mini projects for training based on the 'code-in-the-dark' methodology: 
+
+  - 15-20 min  
+  - No preview/execution  
+  - Any language
